@@ -1,0 +1,26 @@
+{
+  "cv.qmd": {
+    "cv.html": "711d88b6"
+  },
+  "es/cv.qmd": {
+    "cv.html": "e8b8dd9a"
+  },
+  "es/index.qmd": {
+    "index.html": "4f55b4e9"
+  },
+  "es/research.qmd": {
+    "research.html": "5f6b26f7"
+  },
+  "es/teaching.qmd": {
+    "teaching.html": "a053f773"
+  },
+  "index.qmd": {
+    "index.html": "934bf875"
+  },
+  "research.qmd": {
+    "research.html": "ef0d0e53"
+  },
+  "teaching.qmd": {
+    "teaching.html": "d36e3a0e"
+  }
+}

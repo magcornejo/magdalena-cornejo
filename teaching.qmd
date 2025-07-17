@@ -1,0 +1,30 @@
+---
+title: "Teaching"
+format: html
+---
+
+## Currently Teaching
+
+### Universidad Torcuato Di Tella (UTDT)
+
+- Statistical Methods Applied to Business – Master in Management + Analytics (since 2018)
+- Statistical Methods Applied to Business – BA in Business Economics (since 2013)
+
+---
+
+## Previously Taught
+
+### Universidad Torcuato Di Tella (UTDT)
+
+- Statistical Methods Applied to Public Policy – MSc in Public Policy (2011–2024)
+- Statistical Methods Applied to Urban Economics – MSc in Urban Economics (2011–2022)
+
+### Universidad de San Andrés (UdeSA)
+
+- Financial Forecasting – BA in Finance (2020–2021)
+- Econometrics – BA in Economics (2019–2021)
+- Time Series Econometrics and Forecasting – MSc in Economics and in Finance (2015–2021)
+
+### Universidad Nacional de La Plata (UNLP)
+
+- Time Series Econometrics – MSc in Economics (2019–2020)
