@@ -39,4 +39,4 @@ You can find my full list of publications on [Google Scholar](https://scholar.go
 - **[Hot Dry Spells and Extreme Rain in the U.S. Midwest Raise New Crop Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4514667)**, with Nicolás Merener and Ezequiel Merovich
 
 
-- **Machine learning for linear dynamic panel models: a forecasting approach**, with Walter Sosa Escudero. *(Working paper, under review)*
+- **Machine learning for linear dynamic panel models: a forecasting approach**, with Walter Sosa Escudero. 
