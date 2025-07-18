@@ -1,0 +1,11 @@
+---
+title: "CV"
+format: html
+---
+
+## Currículum Vitae
+
+Podés descargar mi CV completo en:
+
+- [Español](../cv/CV_Cornejo.pdf)
+- [English](../cv/CV_Cornejo___English.pdf)

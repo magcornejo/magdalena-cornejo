@@ -1,0 +1,23 @@
+---
+title: "Docencia"
+format: html
+---
+
+## Cursos Dictados
+
+### Universidad Torcuato Di Tella (UTDT)
+
+- Métodos Estadísticos Aplicados a los Negocios – Master in Management + Analytics (desde 2018)
+- Métodos Estadísticos Aplicados a los Negocios – Lic. en Economía Empresarial (desde 2013)
+- Métodos Cuantitativos Aplicados a Políticas Públicas – Maestría en Políticas Públicas (2011–2024)
+- Métodos Estadísticos Aplicados a Estudios Urbanos – Maestría en Economía Urbana (2011–2022)
+
+### Universidad de San Andrés (UdeSA)
+
+- Pronósticos Financieros – Licenciatura en Finanzas (2020–2021)
+- Econometría – Licenciatura en Economía (2019–2021)
+- Econometría de Series de Tiempo y Predicción – Maestrías en Economía y Finanzas (2015–2021)
+
+### Universidad Nacional de La Plata (UNLP)
+
+- Econometría de Series de Tiempo – Maestría en Economía (2019–2020)

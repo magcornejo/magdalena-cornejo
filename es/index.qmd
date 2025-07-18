@@ -1,0 +1,26 @@
+---
+title: "Magdalena Cornejo"
+format: html
+page-layout: full
+image: "../Magdalena Cornejo_ByN2.jpg"
+---
+
+## Sobre mí
+
+Soy economista aplicada y profesora en la Universidad Torcuato Di Tella. Mis investigaciones se centran en métodos de predicción, econometría de series temporales y los impactos económicos del cambio climático.
+
+[Descargar CV](../cv/CV_Cornejo.pdf){.btn .btn-primary}
+
+---
+
+### 📚 Investigación
+
+Más información [aquí](research.qmd).
+
+### 👩‍🏫 Docencia
+
+Listado de cursos y materiales [aquí](teaching.qmd).
+
+### 📄 CV
+
+CV completo [aquí](cv.qmd).

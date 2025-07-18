@@ -1,0 +1,16 @@
+---
+title: "Investigación"
+format: html
+---
+
+## Publicaciones
+
+Podés ver el listado completo de publicaciones en [Google Scholar](https://scholar.google.com/citations?user=ay6v1qkAAAAJ&hl=es).
+
+## Trabajos en curso
+
+- **Machine learning for linear dynamic panel models: a forecasting approach**, con Walter Sosa Escudero. *(Borrador en evaluación)*
+
+- **[Offsetting the Impact of Climate Change on Food Production through Technological Adaptation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331394)**, con Hildegart Ahumada y Lucía Freira.
+
+- **[The Predictive Power of Weather Forecasts for Commodity Futures](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4514667)**

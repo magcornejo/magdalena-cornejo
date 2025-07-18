@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Magdalena Cornejo"
+  navbar:
+    right:
+      - text: Home
+        file: index.qmd
+      - text: Research
+        file: research.qmd
+      - text: Teaching
+        file: teaching.qmd
+      - text: CV
+        file: cv.qmd
+    tools:
+      - icon: globe
+        menu:
+          - text: English
+            href: index.qmd
+          - text: Español
+            href: es/index.qmd
+
+lang: en
+
+languages:
+  en:
+    name: English
+    locale: en
+  es:
+    name: Español
+    locale: es
