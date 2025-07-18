@@ -2,8 +2,10 @@
 title: "Magdalena Cornejo"
 format: html
 page-layout: full
-image: "MagdalenaCornejo_ByN2.jpg"
 ---
+
+![](MagdalenaCornejo_ByN2.jpg){width=150px style="border-radius: 8px; margin-bottom: 1em;"}
+
 
 ## About me
 
