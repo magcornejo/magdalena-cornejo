@@ -9,6 +9,7 @@ You can find my full list of publications on [Google Scholar](https://scholar.go
 
 - **[The role of renewables in smoothing the impact of oil and gas price shocks on inflation: The LAC experience](https://www.sciencedirect.com/science/article/pii/S0301420725001199)**  
   Magdalena Cornejo, Michelle Hallack, David Matías. *Resources Policy*, 2025.
+   👉 [Data and Code](https://github.com/magcornejo/Renewables-Inflation-Smoothing)
 
 - **[Are soybean yields getting a free ride from climate change? Evidence from Argentine time series](https://www.mdpi.com/2225-1146/9/2/24)**  
   Hildegart Ahumada, Magdalena Cornejo. *Econometrics*, 2021.

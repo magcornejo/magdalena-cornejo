@@ -3,14 +3,41 @@ title: "Investigación"
 format: html
 ---
 
-## Publicaciones
+## Publicaciones (selección)
 
 Podés ver el listado completo de publicaciones en [Google Scholar](https://scholar.google.com/citations?user=ay6v1qkAAAAJ&hl=es).
 
-## Trabajos en curso
 
-- **Machine learning for linear dynamic panel models: a forecasting approach**, con Walter Sosa Escudero. *(Borrador en evaluación)*
+- **[The role of renewables in smoothing the impact of oil and gas price shocks on inflation: The LAC experience](https://www.sciencedirect.com/science/article/pii/S0301420725001199)**  
+  Magdalena Cornejo, Michelle Hallack, David Matías. *Resources Policy*, 2025.
+   👉 [Datos y Código](https://github.com/magcornejo/Renewables-Inflation-Smoothing)
+
+- **[Are soybean yields getting a free ride from climate change? Evidence from Argentine time series](https://www.mdpi.com/2225-1146/9/2/24)**  
+  Hildegart Ahumada, Magdalena Cornejo. *Econometrics*, 2021.
+
+- **[Impact of Accelerators, as Education & Training Programs, on Female Entrepreneurs](https://www.degruyterbrill.com/document/doi/10.1515/erj-2020-0306/html)**  
+  Magdalena Cornejo, Carolina Dams, Ricardo Pasquini, Gabriela Robiolo, Virginia Sarria Allende. *Entrepreneurship Research Journal*, 2020.
+
+- **[Market power absent merger review: Brewing in Perú](https://link.springer.com/article/10.1007/s11151-019-09703-8)**  
+  Ariel Casarín, Magdalena Cornejo, María Eugenia Delfino. *Review of Industrial Organization*, 2019.
+
+- **[Out-of-sample testing price discovery in commodity markets: the case of soybeans](https://www.sciencedirect.com/science/article/pii/S0169207016300073)**  
+  Hildegart Ahumada, Magdalena Cornejo. *Agricultural Economics*, 2016.
+
+- **[Explaining commodity prices by a cointegrated time series–cross section model](https://link.springer.com/article/10.1007/s00181-014-0827-5)**  
+  Hildegart Ahumada, Magdalena Cornejo. *Empirical Economics*, 2015.
+
+- **[Long-run effects of commodity prices on the real exchange rate: evidence from Argentina](https://onlinelibrary.wiley.com/doi/abs/10.1111/agec.12267)**  
+  Hildegart Ahumada, Magdalena Cornejo. *Agricultural Economics*, 2015.
+
+- **[Forecasting food prices: the case of corn, soybeans and wheat](https://sedici.unlp.edu.ar/handle/10915/50706)**  
+  Hildegart Ahumada, Magdalena Cornejo. *International Journal of Forecasting*, 2015.
+  
+
+## Trabajos en curso
 
 - **[Offsetting the Impact of Climate Change on Food Production through Technological Adaptation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331394)**, con Hildegart Ahumada y Lucía Freira.
 
 - **[The Predictive Power of Weather Forecasts for Commodity Futures](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4514667)**
+
+- **Machine learning for linear dynamic panel models: a forecasting approach**, con Walter Sosa Escudero. 
