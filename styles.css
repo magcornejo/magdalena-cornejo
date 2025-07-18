@@ -1,0 +1,9 @@
+/* Cambiar el color de fondo del header */
+.navbar {
+  background-color: #d6eaf8 !important;
+}
+
+/* Ocultar el título del sitio en la navbar */
+.navbar-brand {
+  display: none;
+}
