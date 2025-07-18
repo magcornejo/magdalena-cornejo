@@ -1,0 +1,12 @@
+---
+title: "Contacto"
+format: html
+---
+
+## Contacto
+
+Podés escribirme a:
+
+- <i class="fa-solid fa-envelope"></i> [mcornejo@utdt.edu](mailto:mcornejo@utdt.edu)
+- <i class="fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/magdalena-cornejo-8803273/)
+- <i class="fa-brands fa-x-twitter"></i> [X](https://x.com/mag_cornejo)

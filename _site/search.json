@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can contact me via:\n\n mcornejo@utdt.edu\n LinkedIn\n X"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "You can contact me via:\n\n mcornejo@utdt.edu\n LinkedIn\n X"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -12,6 +26,20 @@
     "title": "CV",
     "section": "",
     "text": "You can download my full CV in:\n\nEnglish\nEspañol"
+  },
+  {
+    "objectID": "es/contact.html",
+    "href": "es/contact.html",
+    "title": "Contacto",
+    "section": "",
+    "text": "Podés escribirme a:\n\n mcornejo@utdt.edu\n LinkedIn\n X"
+  },
+  {
+    "objectID": "es/contact.html#contacto",
+    "href": "es/contact.html#contacto",
+    "title": "Contacto",
+    "section": "",
+    "text": "Podés escribirme a:\n\n mcornejo@utdt.edu\n LinkedIn\n X"
   },
   {
     "objectID": "es/cv.html",
@@ -81,7 +109,7 @@
     "href": "index.html#about-me",
     "title": "Magdalena Cornejo",
     "section": "About me",
-    "text": "About me\nI’m an applied economist and full-time professor at the Business School of Universidad Torcuato Di Tella. I am also a Researcher at the National Council for Scientific and Technical Research of Argentina (CONICET). I hold a PhD in Economics from Universidad de Buenos Aires and an MA in Econometrics from Universidad Torcuato Di Tella.\nMy research interests lie at the intersection of forecasting, time series econometrics, and the economic impacts of climate change. More recently, I have focused on the interplay between natural resources and climate change, studying how extreme weather and climate shocks affect agricultural/energy markets, prices, and production outcomes.\nDownload CV\n\n\n📚 Research\nMore details here.\n\n\n👩‍🏫 Teaching\nCourse list here.\n\n\n📄 CV\nFull CV here."
+    "text": "About me\nI’m an applied economist and full-time professor at the Business School of Universidad Torcuato Di Tella. I am also a Researcher at the National Council for Scientific and Technical Research of Argentina (CONICET). I hold a PhD in Economics from Universidad de Buenos Aires and an MA in Econometrics from Universidad Torcuato Di Tella.\nMy research interests lie at the intersection of forecasting, time series econometrics, and the economic impacts of climate change. More recently, I have focused on the interplay between natural resources and climate change, studying how extreme weather and climate shocks affect agricultural/energy markets, prices, and production outcomes.\n\n\n📚 Research\nMore details here.\n\n\n👩‍🏫 Teaching\nCourse list here.\n\n\n📄 CV\nFull CV here."
   },
   {
     "objectID": "research.html",

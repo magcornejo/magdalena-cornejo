@@ -13,6 +13,8 @@ website:
         file: teaching.qmd
       - text: CV
         file: cv.qmd
+      - text: Contact
+        file: contact.qmd
     tools:
       - icon: globe
         menu:
@@ -35,3 +37,6 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-in-header: 
+      - text: |
+          <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>

@@ -13,7 +13,6 @@ I'm an applied economist and full-time professor at the Business School of Unive
 
 My research interests lie at the intersection of forecasting, time series econometrics, and the economic impacts of climate change. More recently, I have focused on the interplay between natural resources and climate change, studying how extreme weather and climate shocks affect agricultural/energy markets, prices, and production outcomes.
 
-[Download CV](../cv/CV_Cornejo___English.pdf){.btn .btn-primary}
 
 ---
 
