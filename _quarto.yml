@@ -30,3 +30,8 @@ languages:
   es:
     name: Español
     locale: es
+    
+format:
+  html:
+    theme: cosmo
+    css: styles.css
