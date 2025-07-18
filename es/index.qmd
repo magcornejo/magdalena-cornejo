@@ -2,12 +2,14 @@
 title: "Magdalena Cornejo"
 format: html
 page-layout: full
-image: "../Magdalena Cornejo_ByN2.jpg"
+image: "../MagdalenaCornejo_ByN2.jpg"
 ---
 
 ## Sobre mí
 
-Soy economista aplicada y profesora en la Universidad Torcuato Di Tella. Mis investigaciones se centran en métodos de predicción, econometría de series temporales y los impactos económicos del cambio climático.
+Soy una economista aplicada y profesora full-time en la Escuela de Negocios de la Universidad Torcuato Di Tella. También soy investigadora del CONICET. Obtuve mi doctorado en Economía en la Universidad de Buenos Aires y una maestría en Econometría en la Universidad Torcuato Di Tella.
+
+Mis intereses de investigación se centran en la intersección entre pronósticos, econometría de series temporales e impactos económicos del cambio climático. Más recientemente, me enfoqué en la relación entre los recursos naturales y el cambio climático, estudiando cómo los eventos climáticos extremos afectan los precios y mercados agrícolas y energéticos.
 
 [Descargar CV](../cv/CV_Cornejo.pdf){.btn .btn-primary}
 
